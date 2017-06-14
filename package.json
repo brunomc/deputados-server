@@ -1,0 +1,26 @@
+{
+  "name": "portal_deputados",
+  "version": "1.0.0",
+  "description": "site com informacoes dos deputados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomc/portal_deputados.git"
+  },
+  "author": "Bruno Medeiros Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunomc/portal_deputados/issues"
+  },
+  "homepage": "https://github.com/brunomc/portal_deputados#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5",
+    "request": "^2.81.0"
+  }
+}
